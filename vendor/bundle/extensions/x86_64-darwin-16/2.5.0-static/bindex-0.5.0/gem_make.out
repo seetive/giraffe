@@ -1,0 +1,15 @@
+current directory: /Users/kosuke.kato/ggg/giraffe/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/kosuke.kato/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180228-96469-pamhjh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kosuke.kato/ggg/giraffe/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/kosuke.kato/ggg/giraffe/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/kosuke.kato/ggg/giraffe/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180228-96469-1fel61g/bindex
